@@ -1,5 +1,5 @@
 #+title: Cooking Guide
-* Mise-en-place and Meal Prep Principles
+** Mise-en-place and Meal Prep Principles
 - My favorite tools
    - Cooking pots: Carbon Steel wok, Stainless steel pot with steamer layers, enameled cast iron pot for soups and roasts.
    - Cooking Tools: Chinese cleaver, Wood cutting board, Stir fry stainless steel spatula, boullion strainer/wire skimmmer, microwaveable stainless steel prep bowls, microwaveable stainless steel lunch box, tongs/chopsticks.
