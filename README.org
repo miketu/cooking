@@ -1,10 +1,17 @@
-#+title: Cooking Guide
+#+TITLE: Cooking Guide
+#+BEGIN_COMMENT
+
+Things to list...
+
+#+END_COMMENT
+
 ** Mise-en-place and Meal Prep Principles
 - My favorite tools
    - Cooking pots: Carbon Steel wok, Stainless steel pot with steamer layers, enameled cast iron pot for soups and roasts.
    - Cooking Tools: Chinese cleaver, paring knife, Wood cutting board, Stir fry stainless steel spatula, boullion strainer/wire skimmmer, microwaveable stainless steel prep bowls, microwaveable stainless steel lunch box, tongs/chopsticks.
    - Tools: Air fryer for making food, instapot for making soups.
 - Cooking with Chris has a lot of practical advice on simple, quick, healthy meal planning: [[https://x.com/coookwithchris/status/1919744081611125031][Busy Person Meal Plan]] and [[https://x.com/coookwithchris/status/1908851889950581166][Meal Prep]]. Basically, cook some lean protein/fattier proteins, have some basic carbs, and roasted vegetables or microgreens as vegetables.
+
 ** Cooking Technique 
 - Stir Fry: Probably the most important technique to learn about applying heat and dealing with different vegetagles/meat.  [[https://www.youtube.com/watch?v=WujehK7kYLM\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=7][Basic Stir fry method]] should be learned as a template, and then experiment with different kinds of meats and vegetables. Try to copy the style of some chefs for yourself (lots of examples: [[https://www.youtube.com/watch?v=rDPlZTBzP-M][Cabbage Stir Fry]], [[https://www.youtube.com/watch?v=rLwmjUHv-C4][Cumin Lamb]], [[https://www.youtube.com/watch?v=EJIojMLLs2g\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=10][Twice Cooked Pork]]，[[https://www.youtube.com/watch?v=i-fU6MCPZ2M][Beef and Broccoli]],[[https://www.youtube.com/watch?v=c78AKzRREoI][Fried Green Beans]], [[https://www.youtube.com/watch?v=hz-NYEizX10][Sweet and Sour Pork]], [[https://www.youtube.com/watch?v=1uZtX_7go_o][Street Food Videos in Taiwan]], [[https://www.youtube.com/watch?v=z_LAJKezDOs][Cantonese Roast Chicken]] ). 
 - Eggs:   [[https://www.youtube.com/watch?v=ONYflj0I2QI][Chinese Cooking Demystified]] is a great start for a method. The key is to not burn it, and adequate oil is helpful tool. Get good at scrambling and building a basic omlette. Get pasture-raised eggs if you can. I like to make a quick omlette with baby tomatoes, chinese sausages, green onions, and egg whites mixed with one or two whole eggs. 
@@ -13,6 +20,7 @@
 - Salads: I'm not very good at making good salads, but I've found a simple garden salad (cherry tomatoes, romaine lettuce, cucumbers, and julienned carrots) with homemade balsamic vinegar (olive oil, balsamic vinegar, a touch of sugar) is a good starter to learn to make.  Each salad is a combination of a leaf, some crunch (cucumbers, carrots, nuts), savory flavors (tomatoes,meat), and a binder with some oil or fat in it (vinegarette, mayonaise base, avocado, etc).
 - Pasta: Basic method I use is to stir fry onions, meat, and cherry tomatoes before adding tomato paste, butter, and some oregano/fresh italian parsley. Then you can boil pasta al-dente, and add a little bit of the cooked pasta water into the sauce in order to thicken it. Then I'll throw in the  pasta and mix it with the sauce. There are a lot of variations on this method.
 - French fries or roast potatoes: Boil potatoes in salt water or broth, then let dry with a fan or in a freezer. Then deep fry or toss in oil before roasting.
+- Taiwanese fried chicken: Use chicken dark meat, marinate in soy sauce/garlic. Coat liberally with potato starch or tapioca starch. Deep fry in oil with a little bit of basil and then add white pepper, salt, five spice powder to taste.
 
  
   
@@ -34,3 +42,5 @@
 - "Deep breathing is of the greatest importance for bringing fresh air into the lungs to be put into the blood, and for developing the size of the chest, but it should be done carefully, according to instructions, and not overdone, otherwise it is liable to strain the heart. The [Japanese] always carry on deep breathing exercise for a few minutes when they first get up in the morning, and always in the open air. It is done by sucking air in through the nose until it swells out your ribs as far as possible, especially at the back; then, after a pause, you breathe out the air slowly and gradually through the mouth until you have not a scrap of air left in you, then after a pause draw in your breath again through the nose as before." -  Baden Powell
 
 - Great exercise routine: [[https://x.com/brettboettcher1/status/1940023935635984705][Sprint/Slow Jog, Bulgarian Split Squat, Dead hangs, Incline Dumbbell Chest Press, Weighted Chin up, Side Plank, Chest Supported Row, Single Leg Deadlift]]
+
+
