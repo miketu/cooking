@@ -2,6 +2,7 @@
 #+BEGIN_COMMENT
 Last updated on [2025-07-29]
 Things to list...
+[2025-07-29]+ Cooking menu
 
 #+END_COMMENT
 
@@ -13,7 +14,6 @@ Things to list...
 - Cooking with Chris has a lot of practical advice on simple, quick, healthy meal planning: [[https://x.com/coookwithchris/status/1919744081611125031][Busy Person Meal Plan]] and [[https://x.com/coookwithchris/status/1908851889950581166][Meal Prep]]. Basically, cook some lean protein/fattier proteins, have some basic carbs, and roasted vegetables or microgreens as vegetables.
 
 ** Shopping List
-
 | Proteins                                                         |
 |------------------------------------------------------------------|
 | Beef bones/oxtail                                                |
@@ -30,6 +30,24 @@ Things to list...
 | Air Chilled Chicken meat (avoid chicken treated with salt water) |
 | Pasture Raised Pork                                              |
 | Prosicutto/Sausages                                              |
+
+| Oils/Seasonings/Sauces |
+|------------------------|
+| Extra virgin olive oil |
+|                        |
+| Salt                   |
+| White Pepper           |
+| Black Pepper           |
+|                        |
+| Shan Meat Tenderizer   |
+|                        |
+| Japanese Furikake      |
+
+| Instant Food                                           |
+|--------------------------------------------------------|
+| Instant miso soup with dried tofu/green onions/seaweed |
+| Frozen dumplings                                       |
+|                                                        |
 
 ** Cooking Technique 
 - Stir Fry: Probably the most important technique to learn about applying heat and dealing with different vegetagles/meat.  [[https://www.youtube.com/watch?v=WujehK7kYLM\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=7][Basic Stir fry method]] should be learned as a template, and then experiment with different kinds of meats and vegetables. Try to copy the style of some chefs for yourself (lots of examples: [[https://www.youtube.com/watch?v=rDPlZTBzP-M][Cabbage Stir Fry]], [[https://www.youtube.com/watch?v=rLwmjUHv-C4][Cumin Lamb]], [[https://www.youtube.com/watch?v=EJIojMLLs2g\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=10][Twice Cooked Pork]]，[[https://www.youtube.com/watch?v=i-fU6MCPZ2M][Beef and Broccoli]],[[https://www.youtube.com/watch?v=c78AKzRREoI][Fried Green Beans]], [[https://www.youtube.com/watch?v=hz-NYEizX10][Sweet and Sour Pork]], [[https://www.youtube.com/watch?v=1uZtX_7go_o][Street Food Videos in Taiwan]], [[https://www.youtube.com/watch?v=z_LAJKezDOs][Cantonese Roast Chicken]] ). 
@@ -60,6 +78,4 @@ Things to list...
 
 - "Deep breathing is of the greatest importance for bringing fresh air into the lungs to be put into the blood, and for developing the size of the chest, but it should be done carefully, according to instructions, and not overdone, otherwise it is liable to strain the heart. The [Japanese] always carry on deep breathing exercise for a few minutes when they first get up in the morning, and always in the open air. It is done by sucking air in through the nose until it swells out your ribs as far as possible, especially at the back; then, after a pause, you breathe out the air slowly and gradually through the mouth until you have not a scrap of air left in you, then after a pause draw in your breath again through the nose as before." -  Baden Powell
 
-- Great exercise routine: [[https://x.com/brettboettcher1/status/1940023935635984705][Sprint/Slow Jog, Bulgarian Split Squat, Dead hangs, Incline Dumbbell Chest Press, Weighted Chin up, Side Plank, Chest Supported Row, Single Leg Deadlift]]
-
-
+- Exercise routine: Barbell squats and bulgarian split squat, pullups and dead hang, inclined chest, long walks. 
