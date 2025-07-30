@@ -1,6 +1,6 @@
 #+TITLE: Cooking Guide
 #+BEGIN_COMMENT
-
+Last updated on [2025-07-29]
 Things to list...
 
 #+END_COMMENT
