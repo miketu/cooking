@@ -1,8 +1,4 @@
 #+TITLE: Cooking Guide
-#+BEGIN_COMMENT
-Last updated on [2025-08-01 Fri]
-
-#+END_COMMENT
 
 ** Mise-en-place and Meal Prep Principles
 - My favorite tools
@@ -14,134 +10,101 @@ Last updated on [2025-08-01 Fri]
 
 #+BEGIN_COMMENT
 
-** Some Favorite Ingredients
-
-| Proteins                                                         |
-|------------------------------------------------------------------|
-| Beef bones/oxtail                                                |
-| Steak cuts (You can use cheaper cuts if you use shan tenderizer  |
-| Lean ground beef                                                 |
-|                                                                  |
-| Pasture raised eggs                                              |
-|                                                                  |
-| Shrimp                                                           |
-| Scallops                                                         |
-| Canned oysters                                                   |
-| Fish fillets that you like                                       |
-|                                                                  |
-| Air Chilled Chicken meat (avoid chicken treated with salt water) |
-| Pasture Raised Pork                                              |
-| Prosicutto/Sausages                                              |
-
-| Oils/Seasonings/Sauces                                             |
-|--------------------------------------------------------------------|
-| Extra virgin olive oil                                             |
-|                                                                    |
-| Salt                                                               |
-| White Pepper                                                       |
-| Black Pepper                                                       |
-|                                                                    |
-| Shan Meat Tenderizer                                               |
-|                                                                    |
-| Japanese Furikake                                                  |
-| Avocado oil or olive oil based mayo (I liked Chosen Foods Sauces ) |
-| Gochujang                                                          |
-| Chicken Paste (e.g. "Better Than Bouillion")                       |
-| Tomato Paste                                                       |
-| Honey                                                              |
-| Siracha                                                            |
-| Balsamic Vinegar                                                   |
-| Sweet chili sauce                                                  |
-
-
-
-| Instant Food                                           |
-|--------------------------------------------------------|
-| Instant miso soup with dried tofu/green onions/seaweed |
-| Frozen dumplings                                       |
-| Chicken Wings                                          |
-|                                                        |
-
-| Carbs                                  |
-|----------------------------------------|
-| Medium grain and long grain white rice |
-| Frozen udon noodles                    |
-| Korean rice cake                       |
-| Italian Egg noodles                    |
-| Sourdough breads                       |
+- Shopping List
+  - Proteins
+    - Beef Oxtail (useful for soups)
+    - Steak cuts (steak, stir frys)
+    - Lean ground beef (hamburger, meatball, putting in sauces, putting inside pita bread or wraps)
+    - Pasture raised eggs (softboiled eggs, omlettes, steamed eggs)
+    - Shrimp
+    - Scallops
+    - Canned Oysters
+    - Fish Fillets
+    - Air-chilled chicken meat
+    - Prosicutto/Sausages
+  - Oils
+    - Extra virgin olive oil (I like Fraza Sizzle brand)
+  - Spices
+    - Salt
+    - White Pepper
+    - Black Pepper
+    - Japanese Furikake Mix
+    - Shan Meat tenderizer （very useful for cheaper cuts)
+    - Middle Eastern Type spice mix 
+    - Italian spice mix (Oregano)
+  - Sauces
+    - Gochujang
+    - [[https://www.betterthanbouillon.com/][Chicken Paste]]
+    - Tomato Paste
+    - Honey
+    - Siracha
+    - Balsamic Vinegar
+    - Soy Sauce
+    - Sweet chili sauce
+  - Vegetables
+    - Microgreens
+    - Asparagus
+    - Cucumbers
+    - Baby Tomatoes
+    - Baby Carrots
+    - Napa Cabbage / Bok Choy
+    - Aromatics (Garlic/ginger/Green onions/cilantro)
+    - Pico De Gallo mix
+    - Korean seaweed
+    - Mushrooms (fresh and dried)
+    - Kimchi
+  - Carbs
+    - Long grain white rice
+    - Frozen udon noodles
+    - Korean rice cake
+    - Italian egg noodles
+    - Sourdough breads and flour
+  - Quick Instant Foods
+    - Instant miso soup
+    - Frozen dumplings
+    - Chicken wings
 
 
-| Vegetables                                            |
-|-------------------------------------------------------|
-| Microgreens                                           |
-| Asparagus                                             |
-| Cucumbers                                             |
-| Baby Tomatoes                                         |
-| Baby Carrots                                          |
-| Napa cabbage                                          |
-| Kimchi/pickled vegetables                             |
-| Aromatics (Garlic / Ginger / Green Onions / Cilantro) |
-| Pico de gallo                                         |
-| Korean seaweed                                        |
-| Mushrooms                                             |
-
-
-
-| General Cleaning                | Need? |
-|---------------------------------+-------|
-| Toilet Paper   (Costco)         |       |
-| Trash Bag (13 Gallon) (Costco)  |       |
-| Laundry Detergent               |       |
-| Sodium Percarbonate             |       |
-| [[https://www.reddit.com/r/LifeProTips/comments/xeyx70/lpt_you_can_make_your_own_dawn_powerwash_at_home/][Sprayable Dish Soap]]             |       |
-| [[https://crunchybetty.com/your-winning-homemade-glass-cleaner-now-with-video/][Glass cleaner solution]]          |       |
-| Microfiber cloth                |       |
-| Robot vacuum                    |       |
-| Melamine foam for deep cleaning |       |
-
-
-| Personal Hygiene and Health           |   |
-|---------------------------------------+---|
-| Beef Tallow Shave Soap                |   |
-| Toothbrush                            |   |
-| Toothpaste Tablets                    |   |
-| Shaving Razor                         |   |
-| Nasal Irrigation Salt                 |   |
-| [[https://www.youtube.com/watch?v=aKbzbQQEylY][Vacuum hair clipper Shpavver]]          |   |
-| Magnesium glycinate and threnoate mix |   |
-
-
-| Computer Stack                    | Notes |
-|-----------------------------------+-------|
-| See   [[file:~/.emacs][.emacs]] for more information |       |
-
-
-| Everyday Carry            | Notes                                    |
-|---------------------------+------------------------------------------|
-| Timbuk2 Nevercheck        | See if you can find a better replacement |
-| Kokuyo bag in Bag         |                                          |
-| ⠀[[https://www.amazon.com/gp/product/B0D4Y8Q8LH?ie=UTF8&psc=1][Retractable fountain pen]] |                                          |
-| ⠀Nail Clipper             | Multitool version?                       |
-| ⠀Computer accessories     | USB-C dongle and power                   |
-| ⠀USB Pendrive             |                                          |
-| ⠀Small thin notebook      |                                          |
-
-
-| Clothing Items                       | Notes |
-|--------------------------------------+-------|
-| ExOfficio Boxers                     |       |
-| FastDry costco undershirts           |       |
-| Poplin and Oxfords                   |       |
-| ABC Pants  equivalent  (Navy)        |       |
-| Black/white tweed blazer             |       |
-| Navy blazer with subtle pattern      |       |
-| Chore coat                           |       |
-| Lightweight rainproof jacket         |       |
-| Turkish sandals made to look western |       |
-
+  - General Cleaning Supplies
+    - Toilet paper
+    - Trash bag
+    - Laundry detergent
+    - Sodium percarbonate
+    - [[https://www.reddit.com/r/LifeProTips/comments/xeyx70/lpt_you_can_make_your_own_dawn_powerwash_at_home/][Sprayable Dish Soap]]
+    - [[https://crunchybetty.com/your-winning-homemade-glass-cleaner-now-with-video/][Glass cleaner solution]]
+    - Microfiber cloth
+    - Robot vacuum
+    - Melamine foam for deep cleaning
+  - Personal Hygiene/Health
+    - Toothbrush
+    - Shaving Razor
+    - Beef Tallow Shaving Soap
+    - Toothpaste Tablets
+    - Nasasl Irrigator and Salt
+    - Magnesium for sleep
+    - [[https://www.youtube.com/watch?v=aKbzbQQEylY][Vacuum hair clipper Shpavver]]
+  - Minimalist Travel Gear
+    - Timbuk2 Nevercheck backpack
+    - Kokuyo bag in bag
+      - ⠀[[https://www.amazon.com/gp/product/B0D4Y8Q8LH?ie=UTF8&psc=1][Retractable fountain pen]]
+      - Pressurized ink pen
+      - Nail clipper
+      - Computer accessories (USB-C charger, power, etc)
+      - USB Pendrive
+      - Small thin notebook
+    - Fast drying undergarments (Ex-officio? Merino wool?)
+    - Poplin weave and oxford weave shirt
+    - ABC Pants or equivalent (at least Navy color)
+    - Black/White tweed blazer
+    - Navy blazer with subtle pattern
+    - Chore coat 
+    - Lightweight rainproof liner
+    - Turkish sandals made to look western
+    - Computer (see .emacs file) for more
 
 
 #+END_COMMENT
+    - Pasture raised pork
 
 ** Cooking Technique 
 - Stir Fry: Probably the most important technique to learn about applying heat and dealing with different vegetagles/meat.  [[https://www.youtube.com/watch?v=WujehK7kYLM\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=7][Basic Stir fry method]] should be learned as a template, and then experiment with different kinds of meats and vegetables. Try to copy the style of some chefs for yourself (lots of examples: [[https://www.youtube.com/watch?v=rDPlZTBzP-M][Cabbage Stir Fry]], [[https://www.youtube.com/watch?v=rLwmjUHv-C4][Cumin Lamb]], [[https://www.youtube.com/watch?v=EJIojMLLs2g\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=10][Twice Cooked Pork]]，[[https://www.youtube.com/watch?v=i-fU6MCPZ2M][Beef and Broccoli]],[[https://www.youtube.com/watch?v=c78AKzRREoI][Fried Green Beans]], [[https://www.youtube.com/watch?v=hz-NYEizX10][Sweet and Sour Pork]], [[https://www.youtube.com/watch?v=1uZtX_7go_o][Street Food Videos in Taiwan]], [[https://www.youtube.com/watch?v=z_LAJKezDOs][Cantonese Roast Chicken]] ). 
@@ -174,3 +137,4 @@ Last updated on [2025-08-01 Fri]
 
 - Exercise routine: Barbell squats and bulgarian split squat, pullups and dead hang, inclined chest, long walks. 
 
+  
