@@ -1,3 +1,4 @@
+
 #+TITLE: Cooking Guide
 
 ** Mise-en-place and Meal Prep Principles
@@ -21,6 +22,7 @@
     - Canned Oysters
     - Fish Fillets
     - Air-chilled chicken meat
+    - Pasture-raised pork
     - Prosicutto/Sausages
   - Oils
     - Extra virgin olive oil (I like Fraza Sizzle brand)
@@ -104,7 +106,7 @@
 
 
 #+END_COMMENT
-    - Pasture raised pork
+   
 
 ** Cooking Technique 
 - Stir Fry: Probably the most important technique to learn about applying heat and dealing with different vegetagles/meat.  [[https://www.youtube.com/watch?v=WujehK7kYLM\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=7][Basic Stir fry method]] should be learned as a template, and then experiment with different kinds of meats and vegetables. Try to copy the style of some chefs for yourself (lots of examples: [[https://www.youtube.com/watch?v=rDPlZTBzP-M][Cabbage Stir Fry]], [[https://www.youtube.com/watch?v=rLwmjUHv-C4][Cumin Lamb]], [[https://www.youtube.com/watch?v=EJIojMLLs2g\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=10][Twice Cooked Pork]]，[[https://www.youtube.com/watch?v=i-fU6MCPZ2M][Beef and Broccoli]],[[https://www.youtube.com/watch?v=c78AKzRREoI][Fried Green Beans]], [[https://www.youtube.com/watch?v=hz-NYEizX10][Sweet and Sour Pork]], [[https://www.youtube.com/watch?v=1uZtX_7go_o][Street Food Videos in Taiwan]], [[https://www.youtube.com/watch?v=z_LAJKezDOs][Cantonese Roast Chicken]] ). 
@@ -136,5 +138,3 @@
 - "Deep breathing is of the greatest importance for bringing fresh air into the lungs to be put into the blood, and for developing the size of the chest, but it should be done carefully, according to instructions, and not overdone, otherwise it is liable to strain the heart. The [Japanese] always carry on deep breathing exercise for a few minutes when they first get up in the morning, and always in the open air. It is done by sucking air in through the nose until it swells out your ribs as far as possible, especially at the back; then, after a pause, you breathe out the air slowly and gradually through the mouth until you have not a scrap of air left in you, then after a pause draw in your breath again through the nose as before." -  Baden Powell
 
 - Exercise routine: Barbell squats and bulgarian split squat, pullups and dead hang, inclined chest, long walks. 
-
-  
