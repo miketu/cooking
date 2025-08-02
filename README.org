@@ -13,8 +13,10 @@ Things to list...
    - Tools: Air fryer for making food, instapot for making soups.
 - Cooking with Chris has a lot of practical advice on simple, quick, healthy meal planning: [[https://x.com/coookwithchris/status/1919744081611125031][Busy Person Meal Plan]] and [[https://x.com/coookwithchris/status/1908851889950581166][Meal Prep]]. Basically, cook some lean protein/fattier proteins, have some basic carbs, and roasted vegetables or microgreens as vegetables.
 
-** Shopping List
 
+ <!--
+
+** Some Favorite Ingredients
 
 | Proteins                                                         |
 |------------------------------------------------------------------|
@@ -33,26 +35,103 @@ Things to list...
 | Pasture Raised Pork                                              |
 | Prosicutto/Sausages                                              |
 
+| Oils/Seasonings/Sauces                                             |
+|--------------------------------------------------------------------|
+| Extra virgin olive oil                                             |
+|                                                                    |
+| Salt                                                               |
+| White Pepper                                                       |
+| Black Pepper                                                       |
+|                                                                    |
+| Shan Meat Tenderizer                                               |
+|                                                                    |
+| Japanese Furikake                                                  |
+| Avocado oil or olive oil based mayo (I liked Chosen Foods Sauces ) |
+| Gochujang                                                          |
+| Chicken Paste (e.g. "Better Than Bouillion")                       |
+| Tomato Paste                                                       |
+| Honey                                                              |
+| Siracha                                                            |
+| Balsamic Vinegar                                                   |
+| Sweet chili sauce                                                  |
 
-
-| Oils/Seasonings/Sauces |
-|------------------------|
-| Extra virgin olive oil |
-|                        |
-| Salt                   |
-| White Pepper           |
-| Black Pepper           |
-|                        |
-| Shan Meat Tenderizer   |
-|                        |
-| Japanese Furikake      |
 
 
 | Instant Food                                           |
 |--------------------------------------------------------|
 | Instant miso soup with dried tofu/green onions/seaweed |
 | Frozen dumplings                                       |
+| Chicken Wings                                          |
 |                                                        |
+
+| Carbs                                  |
+|----------------------------------------|
+| Medium grain and long grain white rice |
+| Frozen udon noodles                    |
+| Korean rice cake                       |
+| Italian Egg noodles                    |
+| Sourdough breads                       |
+
+
+| Vegetables                                            |
+|-------------------------------------------------------|
+| Microgreens                                           |
+| Asparagus                                             |
+| Cucumbers                                             |
+| Baby Tomatoes                                         |
+| Baby Carrots                                          |
+| Napa cabbage                                          |
+| Kimchi/pickled vegetables                             |
+| Aromatics (Garlic / Ginger / Green Onions / Cilantro) |
+| Pico de gallo                                         |
+| Korean seaweed                                        |
+| Mushrooms                                             |
+
+
+
+| General Cleaning                | Need? |
+|---------------------------------+-------|
+| Toilet Paper   (Costco)         |       |
+| Trash Bag (13 Gallon) (Costco)  |       |
+| Laundry Detergent               |       |
+| Sodium Percarbonate             |       |
+| [[https://www.reddit.com/r/LifeProTips/comments/xeyx70/lpt_you_can_make_your_own_dawn_powerwash_at_home/][Sprayable Dish Soap]]             |       |
+| [[https://crunchybetty.com/your-winning-homemade-glass-cleaner-now-with-video/][Glass cleaner solution]]          |       |
+| Microfiber cloth                |       |
+| Robot vacuum                    |       |
+| Melamine foam for deep cleaning |       |
+
+
+| Personal Hygiene and Health           |   |
+|---------------------------------------+---|
+| Beef Tallow Shave Soap                |   |
+| Toothbrush                            |   |
+| Toothpaste Tablets                    |   |
+| Shaving Razor                         |   |
+| Nasal Irrigation Salt                 |   |
+| [[https://www.youtube.com/watch?v=aKbzbQQEylY][Vacuum hair clipper Shpavver]]          |   |
+| Magnesium glycinate and threnoate mix |   |
+
+
+| Computer Stack                    | Notes |
+|-----------------------------------+-------|
+| See   [[file:~/.emacs][.emacs]] for more information |       |
+
+
+| Everyday Carry            | Notes                                    |
+|---------------------------+------------------------------------------|
+| Timbuk2 Nevercheck        | See if you can find a better replacement |
+| Kokuyo bag in Bag         |                                          |
+| ⠀[[https://www.amazon.com/gp/product/B0D4Y8Q8LH?ie=UTF8&psc=1][Retractable fountain pen]] |                                          |
+| ⠀Nail Clipper             | Multitool version?                       |
+| ⠀Computer accessories     | USB-C dongle and power                   |
+| ⠀USB Pendrive             |                                          |
+| ⠀Small thin notebook      |                                          |
+
+
+
+
+-->
 
 ** Cooking Technique 
 - Stir Fry: Probably the most important technique to learn about applying heat and dealing with different vegetagles/meat.  [[https://www.youtube.com/watch?v=WujehK7kYLM\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=7][Basic Stir fry method]] should be learned as a template, and then experiment with different kinds of meats and vegetables. Try to copy the style of some chefs for yourself (lots of examples: [[https://www.youtube.com/watch?v=rDPlZTBzP-M][Cabbage Stir Fry]], [[https://www.youtube.com/watch?v=rLwmjUHv-C4][Cumin Lamb]], [[https://www.youtube.com/watch?v=EJIojMLLs2g\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=10][Twice Cooked Pork]]，[[https://www.youtube.com/watch?v=i-fU6MCPZ2M][Beef and Broccoli]],[[https://www.youtube.com/watch?v=c78AKzRREoI][Fried Green Beans]], [[https://www.youtube.com/watch?v=hz-NYEizX10][Sweet and Sour Pork]], [[https://www.youtube.com/watch?v=1uZtX_7go_o][Street Food Videos in Taiwan]], [[https://www.youtube.com/watch?v=z_LAJKezDOs][Cantonese Roast Chicken]] ). 
@@ -84,3 +163,4 @@ Things to list...
 - "Deep breathing is of the greatest importance for bringing fresh air into the lungs to be put into the blood, and for developing the size of the chest, but it should be done carefully, according to instructions, and not overdone, otherwise it is liable to strain the heart. The [Japanese] always carry on deep breathing exercise for a few minutes when they first get up in the morning, and always in the open air. It is done by sucking air in through the nose until it swells out your ribs as far as possible, especially at the back; then, after a pause, you breathe out the air slowly and gradually through the mouth until you have not a scrap of air left in you, then after a pause draw in your breath again through the nose as before." -  Baden Powell
 
 - Exercise routine: Barbell squats and bulgarian split squat, pullups and dead hang, inclined chest, long walks. 
+
