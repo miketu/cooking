@@ -17,7 +17,9 @@
      - Salads (Prep for Stir Fry, Salads, etc)
      - Stir Frying 
 
+
 #+BEGIN_COMMENT
+:shopping_list:
 
 - Shopping List
   - Proteins
@@ -113,9 +115,10 @@
     - Turkish sandals made to look western
     - Computer (see .emacs file) for more
 
-
+:END:
 #+END_COMMENT
-   
+
+
 
 ** Cooking Technique 
 - Stir Fry: Probably the most important technique to learn about applying heat and dealing with different vegetagles/meat.  [[https://www.youtube.com/watch?v=WujehK7kYLM\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=7][Basic Stir fry method]] should be learned as a template, and then experiment with different kinds of meats and vegetables. Try to copy the style of some chefs for yourself (lots of examples: [[https://www.youtube.com/watch?v=rDPlZTBzP-M][Cabbage Stir Fry]], [[https://www.youtube.com/watch?v=rLwmjUHv-C4][Cumin Lamb]], [[https://www.youtube.com/watch?v=EJIojMLLs2g\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=10][Twice Cooked Pork]]，[[https://www.youtube.com/watch?v=i-fU6MCPZ2M][Beef and Broccoli]],[[https://www.youtube.com/watch?v=c78AKzRREoI][Fried Green Beans]], [[https://www.youtube.com/watch?v=hz-NYEizX10][Sweet and Sour Pork]], [[https://www.youtube.com/watch?v=1uZtX_7go_o][Street Food Videos in Taiwan]], [[https://www.youtube.com/watch?v=z_LAJKezDOs][Cantonese Roast Chicken]] ). 
@@ -148,3 +151,5 @@
 
 - Exercise routine: Barbell squats and bulgarian split squat, pullups and dead hang, inclined chest, long walks. 
 
+
+#+date: <2025-07-26 12:18> >>> c:/Dropbox/2025/2025_log/core/protocol.org
