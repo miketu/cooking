@@ -15,7 +15,7 @@
    - Chopping (Prep for Stir Fry, Salads, etc)
    - Stir Frying 
 
-:SHOPPING_LIST:
+#+BEGIN_COMMENT
 
 - Shopping List
   - Proteins
@@ -112,7 +112,7 @@
     - Computer (see .emacs file) for more
 
 
-:END:
+#+END_COMMENT
    
 
 ** Cooking Technique 
