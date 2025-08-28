@@ -1,5 +1,5 @@
 
-#+TITLE: Cooking Guide
+#+TITLE: Cooking Guide 
 
 ** Mise-en-place and Meal Prep Principles
 - My favorite tools
