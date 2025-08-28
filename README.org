@@ -8,12 +8,14 @@
    - Tools: Air fryer for making food, instapot for making soups.
 - Cooking with Chris has a lot of practical advice on simple, quick, healthy meal planning: [[https://x.com/coookwithchris/status/1919744081611125031][Busy Person Meal Plan]] and [[https://x.com/coookwithchris/status/1908851889950581166][Meal Prep]]. Basically, cook some lean protein/fattier proteins, have some basic carbs, and roasted vegetables or microgreens as vegetables.
 - Cooking a Large Amount: Divide into different stations
-   - Soup/Slow cooking 
-   - Steaming 
-   - Air Fryer/Baking
-   - BBQing
-   - Chopping (Prep for Stir Fry, Salads, etc)
-   - Stir Frying 
+   - Generally More Preparation and Longer Time to Cook
+       - Soup/Slow cooking 
+       - Air Fryer/Baking
+       - Steaming  
+   - Generally Faster but Needs more Immediate Attention
+     - BBQing
+     - Salads (Prep for Stir Fry, Salads, etc)
+     - Stir Frying 
 
 #+BEGIN_COMMENT
 
