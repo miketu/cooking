@@ -1,6 +1,115 @@
+#+TITLE: Cooking Guide
 
-#+TITLE: Cooking Guide 
+** On Method: Science, Engineering, Modeling, and Simulation
+*** Definitions of Modeling, Engineering, Science and Simulation?
+- Science usually concerns itself with experimentation, reproducibility, and systematic universal applicability.
+- Modeling is the practice of simplifying, formulating, and evaluating real world systems with mathematical reasoning and computer simulation. 
+- Analysis is the practice of evaluating system properties based on measurements (relates to "inverse problem", "statistics", "inference")
+- Criteria of mathematics include [[https://worrydream.com/LadderOfAbstraction/][Abstraction/Simplification]], Arguments from scale/proportionality (see Albright - Mathematical Modeling in Excel), dimensional analysis coherency, internal logical coherency, coherency with existing mathematical and physical theorems, beauty, prediction ability
+- "Mathematics is the study of pure pattern" - Rudy Rucker (Mind Tools)
+- "Engineering is the purposeful use of science" - Stephen Senturia
+- "Higher Mathematics is the art of reasoning about the numerical relations between natural phenomena; and the several sections of higher Mathematics are different modes of viewing these relations" - Mellor
+- "this is the purpose of chemical science, to describe in the simplest possible manner the phenomena associated with matter in the act of changing. The word "describe" has been selected with deliberation. The more important advances of modern science have been achieved by keeping the descriptive, not the causal, relations of phenomena constantly in view. Work only progresess along the natural path of experiment and observation. In consequence, "why" is rapidly disappearing from our vocabularly" - Mellor (Chemical Statics and Dynamics)
+- "The search for the first cause has been relinquished. "How?" is the direct object of attack. Our relate "how," now "why", phenomena occur. A phenomena is explained by showing how it resembles something already known. Newton's celebrated law epitomises in one simple statement how bodies have always been observed to fall in the past. ... The scientific generalization explains the operations of Nature by showing the elements of sameness in what, at first site, appears to be a confused jumble of phenomena. Generalization is the golden thread which binds many facts togther in one simple description. " - Mellor (Chemical Statics and Dynamics)
+- "The verbal description of the hypothesis, the differential equation, and the integral, are three different ways of stating one concept. A clear physical view must precede the application of mathematics." - Mellor
+- "There is a prevailing notion that the agreement between the "calculated" and "observed" results is an infalliable crucial test of any hypothesis. The agreement only shows that the hypothesis may be true. G.W. Von Leibnitz long ago remarked that success in explaining facts is no proof of the validity of an hypothesis." - Mellor
+- "The philosopher may be delighted with the extent of his views, the artificer with the readiness of his hands, but let one remember that without mechanical performance, refined speculation is an empty dream, and the other that without theoretical reasoning, dexterity is little more than brute instinct" - Samuel Johnson (from Mellor)
+- "Any difficult that might arise is rather due to the complicated nature of the phenomena alone. A.Comte has said in his Philosophie Positive, 'our feeble minds can no longer trace the logical consequences of the laws of natural phenomena whenever we attempt to simultaneously include more than two or three essential factors" In consequence it is generally found expedient to introduce "simplifying assumptions" into the mathematical analysis. - Mellor
+- "Logic and mathematics are both mere tools by which 'the decisions of the mind are worked out with accuracy' but both must be directed by the mind" - Mellor
+- "It is only after the different works have "collected data" that the mathematician is able to deduce the require generalization. Thus a Maxwell followed Faraday, and a Newton completed Kepler" - Mellor
+- "It must not be supposed, however, that these remarks are intended to imply that a law of Nature has been represented by a mathematical expression with perfect exactness. In the best of generalizations, hypothetical conditions invariably replace the complex state of things which actually obtains in Nature" - Mellor
+- "With improved instruments, and better methods of measurement, more accurate data are from time to time available. The errors of observation being thus reduced, the approximate nature of the formulae becomes more and more apparent. Ultimate, the discrepancy between theory and fact becomes too great to be ignored. It is then neccessary to "go over to the fundamentals". New Formulae must be obtained emobody less of hypothesis, more of fact. Thus, from the first bold guess of an original mind, succeeding generlations progress step by step towards a comprehensive and a complete formulation of the several laws of Nature" - Mellor
+- "Higher Mathematics is the art of reasoning about the numerical relations between natural phenomena; and the several sections of higher Mathematics are different modes of viewing these relations" - Mellor
+- "this is the purpose of chemical science, to describe in the simplest possible manner the phenomena associated with matter in the act of changing. The word "describe" has been selected with deliberation. The more important advances of modern science have been achieved by keeping the descriptive, not the causal, relations of phenomena constantly in view. Work only progresess along the natural path of experiment and observation. In consequence, "why" is rapidly disappearing from our vocabularly" - Mellor (Chemical Statics and Dynamics)
+- "The search for the first cause has been relinquished. "How?" is the direct object of attack. Our relate "how," now "why", phenomena occur. A phenomena is explained by showing how it resembles something already known. Newton's celebrated law epitomises in one simple statement how bodies have always been observed to fall in the past. ... The scientific generalization explains the operations of Nature by showing the elements of sameness in what, at first site, appears to be a confused jumble of phenomena. Generalization is the golden thread which binds many facts togther in one simple description. " - Mellor (Chemical Statics and Dynamics)
+- "The verbal description of the hypothesis, the differential equation, and the integral, are three different ways of stating one concept. A clear physical view must precede the application of mathematics." - Mellor
+- "There is a prevailing notion that the agreement between the "calculated" and "observed" results is an infalliable crucial test of any hypothesis. The agreement only shows that the hypothesis may be true. G.W. Von Leibnitz long ago remarked that success in explaining facts is no proof of the validity of an hypothesis." - Mellor
+  
+*** Why is  Simulation Neccessary?
+- Some problems can't currently be solved with mathematical reasoning only, consequently, we "brute-force" problems and automate multiple small calculations
+  - Example.  [[https://evgenii.com/blog/three-body-problem-simulator/][3 Body Problem]]
+  - Example. Navier-Stokes and Computational Fluid Dynamics
+  - Example. Molecular dynamics
+  - Example. Finite element analysis
 
+
+
+- A computer is good at storing information and performing basic calculations. Modern computers start from "digital logic" circuits and then build up to  complex systems ([[https://www.nand2tetris.org/][link]]). Handling layers of language abstraction and cleverly designing systems is a huge part of "Computer Science" and "Software Engineering"
+  
+- Fun Examples of Computer
+  - Abacus
+  - Water Adder
+  - Minecraft computers
+  - Analog Computers and Op-Amps for doing Calculus
+  - [[https://www.youtube.com/watch?v=fKhFXqObWwY][Economic Simulator of British Economy]]
+*** The bridge between mathematics and reality
+
+There are a number of tools that can be used to illustrate mathematics in a "physical" way. I think this is a ripe field of exploration "manipulables" that can be used to help us get a connection between "book mathematics" and the physical reality we live in. 
+
+Examples
+  - Abacus
+  - Slide Rule
+  - [[https://www.youtube.com/shorts/iWVGiFOuhQA][Derivimeter]]
+  - Integrator device
+
+*** Analogies between Fields
+
+A number of books I've read have presented analogies between many mechanical, electrical, fluidic, and thermal forces. I've yet to see a comprehensive and easy to read treatment, so I've written down some notes for now:
+
+_Quotes from Books_
+
+| Translational | Rotational   | Electrical      |
+|---------------+--------------+-----------------|
+| Force         | Torque       | Voltage         |
+| Mass          | Inertia      | Inductance      |
+| Damper        | Damper       | Resistance      |
+| Spring        | Spring       | Elastance (1/C) |
+| Displacement  | Displacement | Charge          |
+| Velocity      | Velocity     | Current         |
+Source: Page 59 of Computer Simulations for Integrated Stem College education by Hafez and Tavernetti
+
+Other sources: dynamics of physical systems by cannon, arthur johsnon biological process engineering
+
+_My Summary_
+
+| Verbal Description                                          | Translational    | Rotational             | Electrical      | Fluidic        | Thermal |
+|-------------------------------------------------------------+------------------+------------------------+-----------------+----------------+---------|
+| Fundamental measurement                                     | Displacement (x) | Displacement (r*theta) | Charge (q)      | fluidic volume |         |
+| Change of fundamental measurement                           | velocity         | angular velocity       | current         |                |         |
+| "Force" that causes change to change, or "through variable" | Force            | Torque                 | Voltage         | Pressure       |         |
+| Thing that "resists change"                                 | damper           | damper                 | resistance      |                |         |
+| Thing that "stores fundamental unit"                        | spring           | spring                 | elastance (1/C) |                |         |
+| The more of this the slower change occurs                   | mass             | inertia                | inductance      |                |         |
+
+
+F = M (dv/dt) =  M (d2x/dt)
+
+V = L (di/dt) = L (d2q/dt)
+
+*** Coding Problems
+- [[https://github.com/miketu/2d-bouncing-ball-in-R][Bouncing Ball Simulation (R)]] - Finite difference method for modeling bouncing ballss
+- [[https://github.com/miketu/statistics-demonstrations][Statistics and Data science basics (R)]] - Simple scripts illustrating R and concepts of statistics/probability.
+
+*** Recommended Resources
+**** Mathematical and Programming Preliminiaries
+- Mathematical Modeling with Excel by Albright - An excellent textbook of problems and concepts in mathematical modeling based on Microsoft Excel. The structure of the book is concise, interesting, and has great problem sets. 
+- Engineering Modelling and Analysis by Walker et al. - Another good selection of topics in an introductory format. 
+- Math for Scientists: Refreshing the Essentials by Maurits N, Ćurčić-Blake B. - A good refresher on mathematics techniques
+- Engineering Mathematics by Xin-She Yang - A comprehensive, readable summary of mathematical techniques.
+- Algebra the Easy Way, Trigonometry the Easy Way, Calculus the Easy Way by Downing - A series of storybook approach to learning foundational math.
+- Calculus Made Easy by Thompson - A classic book that helps you get an intuition on calculus.
+- R for Data Science by Wickham - Helpful overview of the tidyverse system of performing data analysis.
+
+**** Modeling and Simulation with Programming 
+- Modeling and Simulation of Everyday Things by Roth 
+- An introduction to Computer Simulation Methods by Gould
+**** Interesting Reading in Science
+- Physical Chemistry by Paul Monk - A readable question and answer format that goes into chemical principles of daily life.
+- The Mechanical Universe and Beyond the Mechanical Universe - This is a video series and also a textbook series that shows physics as a historical and human endeavor to understand the nature of reality.
+- Thinking Physics by Lewis Carroll Epstein - A fun "thought experiment" book on basic physics.
+- Grow your soil! by Miessler - Random, but interesting book on gardening and soil science.
+
+      
 ** Mise-en-place and Meal Prep Principles
 - My favorite tools
    - Cooking pots: Carbon Steel wok, Stainless steel pot with steamer layers, enameled cast iron pot for soups and roasts.
@@ -25,7 +134,7 @@
   - Proteins
     - Beef Oxtail (useful for soups)
     - Steak cuts (steak, stir frys)
-    - Lean ground beef (hamburger, meatball, putting in sauces, putting inside pita bread or wraps)
+    - Lean ground beef with organs inside (hamburger, meatball, putting in sauces, putting inside pita bread or wraps)
     - Pasture raised eggs (softboiled eggs, omlettes, steamed eggs)
     - Shrimp
     - Scallops
@@ -33,6 +142,7 @@
     - Fish Fillets
     - Air-chilled chicken meat
     - Pasture-raised pork
+    - Salted Salmon/Trout
     - Prosicutto/Sausages
   - Oils
     - Extra virgin olive oil (I like Fraza Sizzle brand)
@@ -99,7 +209,7 @@
     - Minimalist Travel Gear
     - Timbuk2 Nevercheck backpack
     - Kokuyo bag in bag
-      - ⠀[[https://www.amazon.com/gp/product/B0D4Y8Q8LH?ie=UTF8&psc=1][Retractable fountain pen]]
+      - [[https://www.amazon.com/dp/B0DYNZ53KN?ref=ppx_yo2ov_dt_b_fed_asin_title][Retractable Silent Fountain Pen]]
       - Pressurized ink pen
       - Nail clipper
       - Computer accessories (USB-C charger, power, etc)
@@ -113,25 +223,23 @@
     - Chore coat 
     - Lightweight rainproof liner
     - Turkish sandals made to look western
-    - Computer (see .emacs file) for more
+    - Computer (see [[https://github.com/miketu/.emacs/blob/main/.emacs][.emacs file]]) for more
 
 :END:
 #+END_COMMENT
 
 
-
-** Cooking Technique 
+** Cooking Techniques 
 - Stir Fry: Probably the most important technique to learn about applying heat and dealing with different vegetagles/meat.  [[https://www.youtube.com/watch?v=WujehK7kYLM\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=7][Basic Stir fry method]] should be learned as a template, and then experiment with different kinds of meats and vegetables. Try to copy the style of some chefs for yourself (lots of examples: [[https://www.youtube.com/watch?v=rDPlZTBzP-M][Cabbage Stir Fry]], [[https://www.youtube.com/watch?v=rLwmjUHv-C4][Cumin Lamb]], [[https://www.youtube.com/watch?v=EJIojMLLs2g\&list=PLvgcfeibGofLRj0GENLMoOjq1zek1SSt8\&index=10][Twice Cooked Pork]]，[[https://www.youtube.com/watch?v=i-fU6MCPZ2M][Beef and Broccoli]],[[https://www.youtube.com/watch?v=c78AKzRREoI][Fried Green Beans]], [[https://www.youtube.com/watch?v=hz-NYEizX10][Sweet and Sour Pork]], [[https://www.youtube.com/watch?v=1uZtX_7go_o][Street Food Videos in Taiwan]], [[https://www.youtube.com/watch?v=z_LAJKezDOs][Cantonese Roast Chicken]] ). 
 - Eggs:   [[https://www.youtube.com/watch?v=ONYflj0I2QI][Chinese Cooking Demystified]] is a great start for a method. The key is to not burn it, and adequate oil is helpful tool. Get good at scrambling and building a basic omlette. Get pasture-raised eggs if you can. I like to make a quick omlette with baby tomatoes, chinese sausages, green onions, and egg whites mixed with one or two whole eggs. 
 - Rice: [[https://www.youtube.com/watch?v=owUiKyx4chI][Stop Overthinking Fried Rice]] is a great tutorial on basics (and making rice itself is a technique [[https://www.youtube.com/watch?v=XjHQoYAp9I0][link]]) with egg and soy sauce in fried rice. Then you can experiment with other flavors of fried rice ([[https://www.youtube.com/watch?v=n10xBmqehik][link]]), and watch street food vendors cook it ([[https://www.youtube.com/watch?v=kAKUtnv42Wo][link]]) to get some ideas too. You can experiment with dishes such as [[https://www.youtube.com/watch?v=r7rFBwuZITc][rice pilaf]]. One comment: lots of people use soy sauce as a fried rice flavor, but really try to experiment with other things such as using chicken boullion paste. 
 - Soup and Stew : I suggest you learn the most basic "double boil" style of soup [[https://www.youtube.com/watch?v=d6_gi_6SrXA][(Korean Ox Tail Soup for example)]] as a base and experiment with different flavors as you see fit (eat lots of hot pots!).  Try to learn to make "red braised pork (红烧肉,Japanese curry, [[https://www.youtube.com/watch?v=2Yk-CuAravk][Beef noodle soup]] from scratch as experiments too. 
 - Salads: I'm not very good at making good salads, but I've found a simple garden salad (cherry tomatoes, romaine lettuce, cucumbers, and julienned carrots) with homemade balsamic vinegar (olive oil, balsamic vinegar, a touch of sugar) is a good starter to learn to make.  Each salad is a combination of a leaf, some crunch (cucumbers, carrots, nuts), savory flavors (tomatoes,meat), and a binder with some oil or fat in it (vinegarette, mayonaise base, avocado, etc).
 - Pasta: Basic method I use is to stir fry onions, meat, and cherry tomatoes before adding tomato paste, butter, and some oregano/fresh italian parsley. Then you can boil pasta al-dente, and add a little bit of the cooked pasta water into the sauce in order to thicken it. Then I'll throw in the  pasta and mix it with the sauce. There are a lot of variations on this method.
-- French fries or roast potatoes: Boil potatoes in salt water or broth, then let dry with a fan or in a freezer. Then deep fry or toss in oil before roasting.
+- French fries or roast potatoes: Boil potatoes in salt water or broth, then let dry with a fan or in a freezer. Then deep fry or toss in oil before roasting or deep frying further.
 - Taiwanese fried chicken: Use chicken dark meat, marinate in soy sauce/garlic. Coat liberally with potato starch or tapioca starch. Deep fry in oil with a little bit of basil and then add white pepper, salt, five spice powder to taste.
 
  
-  
 ** Medicine and Health
 - "Let food be thy medicine and medicine be thy food" - Hippocrates
 
