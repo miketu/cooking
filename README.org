@@ -2,7 +2,7 @@
 #+TITLE: Cooking Guide
 
 #+BEGIN_COMMENT
-
+:method:
 ** On Method: Science, Engineering, Modeling, and Simulation
 *** Definitions of Modeling, Engineering, Science and Simulation?
 - Science usually concerns itself with experimentation, reproducibility, and systematic universal applicability.
@@ -112,7 +112,7 @@ V = L (di/dt) = L (d2q/dt)
 - Thinking Physics by Lewis Carroll Epstein - A fun "thought experiment" book on basic physics.
 - Grow your soil! by Miessler - Random, but interesting book on gardening and soil science.
 
-
+:end:
 #+END_COMMENT
 
 ** Mise-en-place and Meal Prep Principles
