@@ -1,4 +1,7 @@
+
 #+TITLE: Cooking Guide
+
+#+BEGIN_COMMENT
 
 ** On Method: Science, Engineering, Modeling, and Simulation
 *** Definitions of Modeling, Engineering, Science and Simulation?
@@ -109,7 +112,9 @@ V = L (di/dt) = L (d2q/dt)
 - Thinking Physics by Lewis Carroll Epstein - A fun "thought experiment" book on basic physics.
 - Grow your soil! by Miessler - Random, but interesting book on gardening and soil science.
 
-      
+
+#+END_COMMENT
+
 ** Mise-en-place and Meal Prep Principles
 - My favorite tools
    - Cooking pots: Carbon Steel wok, Stainless steel pot with steamer layers, enameled cast iron pot for soups and roasts.
