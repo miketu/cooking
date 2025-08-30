@@ -1,5 +1,5 @@
 
-#+TITLE: Cooking Guide
+#+TITLE: On Method and Cooking
 
 #+BEGIN_COMMENT
 :method:
