@@ -119,7 +119,7 @@ V = L (di/dt) = L (d2q/dt)
 - My favorite tools
    - Cooking pots: Carbon Steel wok, Stainless steel pot with steamer layers, enameled cast iron pot for soups and roasts.
    - Cooking Tools: Chinese cleaver, paring knife, Wood cutting board, Stir fry stainless steel spatula, boullion strainer/wire skimmmer, microwaveable stainless steel prep bowls, microwaveable stainless steel lunch box, tongs/chopsticks.
-   - Tools: Air fryer for making food, instapot for making soups.
+   - Tools: Air fryer for making food, instapot/rice cooker for making soups.
 - Cooking with Chris has a lot of practical advice on simple, quick, healthy meal planning: [[https://x.com/coookwithchris/status/1919744081611125031][Busy Person Meal Plan]] and [[https://x.com/coookwithchris/status/1908851889950581166][Meal Prep]]. Basically, cook some lean protein/fattier proteins, have some basic carbs, and roasted vegetables or microgreens as vegetables.
 - Cooking a Large Amount: Divide into different stations
    - Generally More Preparation and Longer Time to Cook
