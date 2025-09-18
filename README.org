@@ -1,8 +1,7 @@
 
 #+TITLE: On Method and Cooking
 
-#+BEGIN_COMMENT
-:method:
+
 ** On Method: Science, Engineering, Modeling, and Simulation
 *** Definitions of Modeling, Engineering, Science and Simulation?
 - Science usually concerns itself with experimentation, reproducibility, and systematic universal applicability.
@@ -111,16 +110,17 @@ V = L (di/dt) = L (d2q/dt)
 - The Mechanical Universe and Beyond the Mechanical Universe - This is a video series and also a textbook series that shows physics as a historical and human endeavor to understand the nature of reality.
 - Thinking Physics by Lewis Carroll Epstein - A fun "thought experiment" book on basic physics.
 - Grow your soil! by Miessler - Random, but interesting book on gardening and soil science.
-
+  
 :end:
-#+END_COMMENT
+
+
 
 ** Mise-en-place and Meal Prep Principles
 - My favorite tools
   - Cooking pots: Carbon Steel wok, Stainless steel pot with steamer layers, enameled cast iron pot for soups and roasts.
   - Cooking Tools: Chinese cleaver, paring knife, Wood cutting board, Stir fry stainless steel spatula, boullion strainer/wire skimmmer, microwaveable stainless steel prep bowls, microwaveable stainless steel lunch box, tongs/chopsticks.
-  - Tools: Air fryer for making food, instapot/rice cooker for making soups.
-- Cooking with Chris has a lot of practical advice on simple, quick, healthy meal planning: [[https://x.com/coookwithchris/status/1919744081611125031][Busy Person Meal Plan]] and [[https://x.com/coookwithchris/status/1908851889950581166][Meal Prep]]. Basically, cook some lean protein/fattier proteins, have some basic carbs, and roasted vegetables or microgreens as vegetables.
+  - Tools: Instapot Duo Crisp
+  - Cooking with Chris has a lot of practical advice on simple, quick, healthy meal planning: [[https://x.com/coookwithchris/status/1919744081611125031][Busy Person Meal Plan]] and [[https://x.com/coookwithchris/status/1908851889950581166][Meal Prep]]. Basically, cook some lean protein/fattier proteins, have some basic carbs, and roasted vegetables or microgreens as vegetables.
 - Cooking a Large Amount: Divide into different stations
   - More Initial Prep + More Cooking Time
     - Soup/Slow cooking 
@@ -132,13 +132,14 @@ V = L (di/dt) = L (d2q/dt)
     - Stir Frying 
 
 
-#+BEGIN_COMMENT
 :shopping_list:
 
+
+#+BEGIN_COMMENT
 - Shopping List
   - Proteins
     - Beef Oxtail (useful for soups)
-    - Steak cuts (steak, stir frys)
+    - Thin cut beef (steak, stir frys)
     - Lean ground beef with organs inside (hamburger, meatball, putting in sauces, putting inside pita bread or wraps)
     - Pasture raised eggs (softboiled eggs, omlettes, steamed eggs)
     - Shrimp
@@ -147,7 +148,7 @@ V = L (di/dt) = L (d2q/dt)
     - Fish Fillets
     - Air-chilled chicken meat
     - Pasture-raised pork
-    - Salted Salmon/Trout
+    - Salted fish
     - Prosicutto/Sausages
   - Oils
     - Extra virgin olive oil (I like Fraza Sizzle brand)
@@ -170,11 +171,11 @@ V = L (di/dt) = L (d2q/dt)
     - Sweet chili sauce
   - Vegetables
     - Microgreens
+    - Napa Cabbage / Bok Choy
     - Asparagus
     - Cucumbers
     - Baby Tomatoes
     - Baby Carrots
-    - Napa Cabbage / Bok Choy
     - Aromatics (Garlic/ginger/Green onions/cilantro)
     - Pico De Gallo mix
     - Korean seaweed
@@ -185,11 +186,15 @@ V = L (di/dt) = L (d2q/dt)
     - Frozen udon noodles
     - Korean rice cake
     - Italian egg noodles
+    - Potatoes
     - Sourdough breads and flour
   - Quick Instant Foods
     - Instant miso soup
     - Frozen dumplings
     - Chicken wings
+  - Desserts
+    - Blueberries and Strawberries (try to cover in Dark Chocolate and coconut oil as a bonus)
+   
 
 
   - General Cleaning Supplies
@@ -214,7 +219,6 @@ V = L (di/dt) = L (d2q/dt)
     - Minimalist Travel Gear
     - Timbuk2 Nevercheck backpack
     - Kokuyo bag in bag
-      - [[https://www.amazon.com/dp/B0DYNZ53KN?ref=ppx_yo2ov_dt_b_fed_asin_title][Retractable Silent Fountain Pen]]
       - Pressurized ink pen
       - Nail clipper
       - Computer accessories (USB-C charger, power, etc)
@@ -229,9 +233,11 @@ V = L (di/dt) = L (d2q/dt)
     - Lightweight rainproof liner
     - Turkish sandals made to look western
     - Computer (see [[https://github.com/miketu/.emacs/blob/main/.emacs][.emacs file]]) for more
-
-:END:
+    
 #+END_COMMENT
+
+
+    :END:
 
 
 ** Cooking Techniques 
@@ -244,8 +250,7 @@ V = L (di/dt) = L (d2q/dt)
 - French fries or roast potatoes: Boil potatoes in salt water or broth, then let dry with a fan or in a freezer. Then deep fry or toss in oil before roasting or deep frying further.
 - Taiwanese fried chicken: Use chicken dark meat, marinate in soy sauce/garlic. Coat liberally with potato starch or tapioca starch. Deep fry in oil with a little bit of basil and then add white pepper, salt, five spice powder to taste.
 
-#+BEGIN_COMMENT
- :health:
+ 
 ** Medicine and Health
 - "Let food be thy medicine and medicine be thy food" - Hippocrates
 
@@ -265,6 +270,6 @@ V = L (di/dt) = L (d2q/dt)
 
 - Exercise routine: Barbell squats and bulgarian split squat, pullups and dead hang, inclined chest, long walks. 
 
-:end:
-#+END_COMMENT
+
+
 #+date: <2025-07-26 12:18> >>> c:/Dropbox/2025/2025_log/core/protocol.org
