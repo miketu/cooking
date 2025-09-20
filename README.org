@@ -1,6 +1,7 @@
 
-#+TITLE: On Method and Cooking
+#+TITLE: On Methods and Protocols
 
+#+BEGIN_COMMENT
 
 ** On Method: Science, Engineering, Modeling, and Simulation
 *** Definitions of Modeling, Engineering, Science and Simulation?
@@ -110,8 +111,9 @@ V = L (di/dt) = L (d2q/dt)
 - The Mechanical Universe and Beyond the Mechanical Universe - This is a video series and also a textbook series that shows physics as a historical and human endeavor to understand the nature of reality.
 - Thinking Physics by Lewis Carroll Epstein - A fun "thought experiment" book on basic physics.
 - Grow your soil! by Miessler - Random, but interesting book on gardening and soil science.
-  
-:end:
+
+
+#+END_COMMENT
 
 
 
@@ -217,22 +219,22 @@ V = L (di/dt) = L (d2q/dt)
     - [[https://www.youtube.com/watch?v=aKbzbQQEylY][Vacuum hair clipper Shpavver]]
 
     - Minimalist Travel Gear
-    - Timbuk2 Nevercheck backpack
-    - Kokuyo bag in bag
-      - Pressurized ink pen
-      - Nail clipper
-      - Computer accessories (USB-C charger, power, etc)
-      - USB Pendrive
-      - Small thin notebook
-    - Fast drying undergarments (Ex-officio? Merino wool?)
-    - Poplin weave and oxford weave shirt
-    - ABC Pants or equivalent (at least Navy color)
-    - Black/White tweed blazer
-    - Navy blazer with subtle pattern
-    - Chore coat 
-    - Lightweight rainproof liner
-    - Turkish sandals made to look western
-    - Computer (see [[https://github.com/miketu/.emacs/blob/main/.emacs][.emacs file]]) for more
+      - Timbuk2 Nevercheck backpack
+      - Kokuyo bag in bag
+        - [[https://www.amazon.com/dp/B0017OR05Q?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1][Tradio Pen]]
+        - Nail clipper
+        - Computer accessories (USB-C charger, power, etc)
+        - USB Pendrive
+        - Small thin notebook
+      - Fast drying undergarments (Ex-officio? Merino wool?)
+      - Poplin weave and oxford weave shirt
+      - ABC Pants or equivalent (at least Navy color)
+      - Black/White tweed blazer
+      - Navy blazer with subtle pattern
+      - Chore coat 
+      - Lightweight rainproof liner
+      - Turkish sandals made to look western
+      - Computer (see [[https://github.com/miketu/.emacs/blob/main/.emacs][.emacs file]]) for more
     
 #+END_COMMENT
 
