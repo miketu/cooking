@@ -252,7 +252,8 @@ V = L (di/dt) = L (d2q/dt)
 - French fries or roast potatoes: Boil potatoes in salt water or broth, then let dry with a fan or in a freezer. Then deep fry or toss in oil before roasting or deep frying further.
 - Taiwanese fried chicken: Use chicken dark meat, marinate in soy sauce/garlic. Coat liberally with potato starch or tapioca starch. Deep fry in oil with a little bit of basil and then add white pepper, salt, five spice powder to taste.
 
- 
+ #+BEGIN_COMMENT
+
 ** Medicine and Health
 - "Let food be thy medicine and medicine be thy food" - Hippocrates
 
@@ -272,6 +273,6 @@ V = L (di/dt) = L (d2q/dt)
 
 - Exercise routine: Barbell squats and bulgarian split squat, pullups and dead hang, inclined chest, long walks. 
 
-
+#+END_COMMENT
 
 #+date: <2025-07-26 12:18> >>> c:/Dropbox/2025/2025_log/core/protocol.org
